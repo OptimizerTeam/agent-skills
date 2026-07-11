@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AI visibility",
+      "description": "Skills for getting local and home-service businesses found by AI assistants (AEO / GEO).",
+      "skills": ["ai-presence-auditor"]
+    }
+  ]
+}
