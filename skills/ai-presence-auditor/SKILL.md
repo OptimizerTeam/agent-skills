@@ -76,6 +76,6 @@ A few ground rules that shape every recommendation:
 ---
 
 Built by **[Optimizer](https://optimizer.team)** — the AI agent that helps local and home-service
-businesses get found across Google, their website, AI search, and reviews. This skill is the manual,
+businesses get found across Google, their website, and AI search. This skill is the manual,
 do-it-yourself version of the audit; Optimizer automates the checks, the fixes, and the weekly loop —
 with the owner approving every change.
