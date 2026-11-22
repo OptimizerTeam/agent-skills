@@ -14,6 +14,13 @@ works in Claude Code, Cursor, Codex and any other agent that loads `SKILL.md` sk
 npx skills add OptimizerTeam/agent-skills
 ```
 
+Or as a Claude Code plugin, inside Claude Code:
+
+```text
+/plugin marketplace add OptimizerTeam/agent-skills
+/plugin install local-ai-visibility-audit@optimizer
+```
+
 Then ask your agent:
 
 ```text

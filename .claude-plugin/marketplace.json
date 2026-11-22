@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "optimizer",
+  "description": "Optimizer's agent skills for local SEO and AI search.",
+  "owner": {
+    "name": "Optimizer Team, Inc.",
+    "url": "https://github.com/OptimizerTeam"
+  },
+  "plugins": [
+    {
+      "name": "local-ai-visibility-audit",
+      "source": "./",
+      "description": "AI visibility audit for a local business: who ChatGPT, Perplexity, Gemini and Google's AI name, and the fixes that get you named.",
+      "category": "marketing",
+      "tags": ["ai-visibility", "local-seo", "ai-seo", "aeo", "geo"]
+    }
+  ]
+}

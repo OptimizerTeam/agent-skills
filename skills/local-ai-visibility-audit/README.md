@@ -43,6 +43,13 @@ Via [skills.sh](https://skills.sh/OptimizerTeam/agent-skills):
 npx skills add OptimizerTeam/agent-skills
 ```
 
+Or as a Claude Code plugin, inside Claude Code:
+
+```text
+/plugin marketplace add OptimizerTeam/agent-skills
+/plugin install local-ai-visibility-audit@optimizer
+```
+
 Or manually (agent skills live in `~/.claude/skills/` or a project's `.claude/skills/`):
 
 ```bash
