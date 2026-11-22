@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "local-ai-visibility-audit",
+  "displayName": "AI Presence Auditor",
+  "description": "AI visibility audit for a local business: checks whether it gets named when customers ask ChatGPT, Perplexity, Gemini, Google AI Overviews or Copilot who to hire, then returns a prioritized list of fixes.",
+  "author": {
+    "name": "Optimizer Team, Inc.",
+    "url": "https://optimizer.team"
+  },
+  "homepage": "https://optimizer.team/resources/ai-visibility-checker",
+  "repository": "https://github.com/OptimizerTeam/agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "ai-visibility",
+    "local-seo",
+    "ai-seo",
+    "aeo",
+    "geo",
+    "chatgpt",
+    "google-business-profile",
+    "audit"
+  ]
+}
