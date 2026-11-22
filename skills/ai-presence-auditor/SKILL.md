@@ -23,8 +23,9 @@ returns a prioritized list of fixes.
 There is **no single "AI"** — different assistants read different sources, so "get found by AI" is a
 multi-surface job, not one listing:
 
-- **ChatGPT** leans on the **Bing index** + your website + Yelp/Foursquare structured data — *not*
-  primarily Google Business Profile.
+- **ChatGPT** draws on **several sources at once**: outside search providers (OpenAI names none;
+  Microsoft says its Web IQ service powers ChatGPT), ranked lists, directories and review sites, and
+  your website. Nobody outside OpenAI knows the shares, so don't count on any one listing.
 - **Google AI Overviews / AI Mode / Gemini** lean on your **Google Business Profile** + the local pack.
 - **Microsoft Copilot** ← the Bing ecosystem. **Siri / Apple Maps** ← **Apple Business Connect**.
 
