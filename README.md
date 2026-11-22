@@ -7,6 +7,8 @@ works in Claude Code, Cursor, Codex and any other agent that loads `SKILL.md` sk
 **[Optimizer](https://optimizer.team)** (optimizer.team).
 
 [![skills.sh](https://skills.sh/b/OptimizerTeam/agent-skills)](https://skills.sh/OptimizerTeam/agent-skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Works with Claude Code, Cursor and Codex](https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Cursor%20%7C%20Codex-informational)](#install)
 
 ## Install
 
