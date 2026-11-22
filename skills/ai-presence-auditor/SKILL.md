@@ -1,6 +1,13 @@
 ---
 name: ai-presence-auditor
-description: Audit whether a local or home-service business shows up when customers ask AI assistants (ChatGPT, Perplexity, Google AI Overviews/AI Mode, Gemini, Copilot) to recommend a provider — and produce the specific, prioritized fixes that move the needle. Use for an AEO/GEO audit of a local business, or when someone asks "do I show up in ChatGPT," "why does AI recommend my competitor," or "how do I get found by AI."
+description: AI visibility audit for a local business. Checks whether the business gets named when customers ask ChatGPT, Perplexity, Gemini, Google AI Overviews or AI Mode, or Copilot who to hire, then returns a prioritized list of fixes for its listings, reviews and website wording. Use for the AI search side of local SEO (AEO, GEO) for a plumber, HVAC company, roofer or other local service business, or when someone asks "do I show up in ChatGPT", "why does AI recommend my competitor" or "how do I get found by AI".
+license: MIT
+compatibility: Needs web access. To check ChatGPT, Perplexity or Gemini answers the agent must be able to open those assistants, or the user runs the prompts and pastes the answers. No API key.
+metadata:
+  author: optimizer-team
+  homepage: https://optimizer.team/resources/ai-visibility-checker
+  repository: https://github.com/OptimizerTeam/agent-skills
+  install: npx skills add OptimizerTeam/agent-skills
 ---
 
 # AI Presence Auditor
@@ -82,3 +89,6 @@ Built by **[Optimizer](https://optimizer.team)** — the AI agent that helps loc
 businesses get found across Google, their website, and AI search. This skill is the manual,
 do-it-yourself version of the audit; Optimizer automates the checks, the fixes, and the weekly loop —
 with the owner approving every change.
+
+Full guide, with every step done by hand: [AI Visibility Checker](https://optimizer.team/resources/ai-visibility-checker).
+Free automated audit: [optimizer.team/analyze](https://optimizer.team/analyze).

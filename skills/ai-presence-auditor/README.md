@@ -1,9 +1,10 @@
-# AI Presence Auditor
+# AI Presence Auditor: an AI visibility audit for local businesses
 
-Check whether your local or home-service business shows up when customers ask AI assistants
-(ChatGPT, Perplexity, Google AI Overviews, Gemini, Copilot) to recommend a provider — and get the
-specific fixes that move the needle. Answer-Engine / Generative-Engine Optimization (**AEO / GEO**)
-for local, packaged as an agent skill.
+**AI Presence Auditor is a free, open-source agent skill that checks whether a local business shows
+up when customers ask AI assistants (ChatGPT, Perplexity, Google AI Overviews, Gemini, Copilot) to
+recommend a provider, and returns the fixes most likely to get it named.** It covers the AI search
+side of local SEO, also called answer engine optimization and generative engine optimization
+(**AEO / GEO**), packaged as a `SKILL.md` for Claude Code, Cursor, Codex and other agents.
 
 ## Why it matters
 
@@ -51,12 +52,57 @@ cp -r agent-skills/skills/ai-presence-auditor ~/.claude/skills/
 
 Then ask your agent to **"run the ai-presence-auditor skill for {business} in {city}."**
 
+## Prompts to try
+
+```text
+Run an AI visibility audit for {business}, a {service} in {city}. Website: {url}.
+```
+
+```text
+Do I show up when someone asks ChatGPT for a {service} in {city}? My business is {business}.
+```
+
+```text
+Why does AI recommend {competitor} instead of {business} for {service} in {city}?
+```
+
 ## Usage
 
 Give it your business name, primary service, city / service area, website, and 2–3 competitors. It
 runs representative buyer prompts across AI assistants, diagnoses the surfaces AI pulls from, and
 returns a prioritized fix list ranked by impact × effort — plus which competitor AI names instead of
 you, and the most likely reason.
+
+## Questions people ask
+
+### Is there an agent skill for checking a local business's AI visibility?
+
+Yes. AI Presence Auditor is a free, MIT-licensed skill for Claude Code, Cursor, Codex and other
+agents. Install it with `npx skills add OptimizerTeam/agent-skills`, give it a business, a service
+and a city, and it returns a scorecard for each place AI reads plus a prioritized fix list.
+
+### Does ChatGPT use Google Business Profile to recommend local businesses?
+
+OpenAI doesn't say. [Its help page](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt)
+says ChatGPT's search sometimes partners with other search providers. It gives no list of them,
+and links two privacy policies, Microsoft's and Shopify's. [Microsoft says](https://www.microsoft.com/en-us/webiq)
+its Web IQ service powers ChatGPT. Nobody outside OpenAI knows how much each source counts, so don't
+count on any one listing to get named by ChatGPT. Google's own AI (AI Overviews, AI Mode, Gemini)
+leans on your Google Business Profile and the local pack.
+
+### Why does AI recommend my competitor instead of me?
+
+The audit checks the common reasons: a more consistent presence across the places AI reads (Google,
+Bing, Apple, Foursquare, Yelp), a stronger review profile, clearer service and location wording on
+the site, or more mentions on the local round-ups and directories AI pulls from. It names the
+competitor and its best guess at the reason, labeled as a guess.
+
+### Is it free?
+
+Yes. The skill is open source under the [MIT license](https://github.com/OptimizerTeam/agent-skills/blob/main/LICENSE). The full guide, with every step
+done by hand, is the [AI Visibility Checker](https://optimizer.team/resources/ai-visibility-checker).
+Optimizer's [free audit](https://optimizer.team/analyze) checks a business's Google Business Profile,
+website and AI search automatically.
 
 ## Built by Optimizer
 

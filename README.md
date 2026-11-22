@@ -1,8 +1,10 @@
-# Agent Skills
+# Agent skills for local SEO and AI search
 
-Open-source agent skills from **[Optimizer](https://optimizer.team)** (optimizer.team) — for getting
-local and home-service businesses **found by AI**. Skills are packaged instructions an AI agent
-(Claude, Cursor, Copilot, Gemini, …) loads on demand.
+**AI Presence Auditor is a free, open-source (MIT) agent skill that runs an AI visibility audit for a
+local business.** It checks whether the business gets named when customers ask ChatGPT, Perplexity,
+Gemini, Google's AI Overviews or Copilot who to hire, then returns a prioritized list of fixes. It
+works in Claude Code, Cursor, Codex and any other agent that loads `SKILL.md` skills. Published by
+**[Optimizer](https://optimizer.team)** (optimizer.team).
 
 [![skills.sh](https://skills.sh/b/OptimizerTeam/agent-skills)](https://skills.sh/OptimizerTeam/agent-skills)
 
@@ -10,6 +12,12 @@ local and home-service businesses **found by AI**. Skills are packaged instructi
 
 ```bash
 npx skills add OptimizerTeam/agent-skills
+```
+
+Then ask your agent:
+
+```text
+Run an AI visibility audit for {business}, a {service} in {city}. Website: {url}.
 ```
 
 ## Available skills
@@ -26,6 +34,9 @@ Yelp).
 - Auditing whether a business appears in AI answers (AEO / GEO)
 - Answering "do I show up in ChatGPT?" or "why does AI recommend my competitor?"
 - Finding the highest-impact fixes to get recommended by AI
+
+Skill page: [skills.sh/optimizerteam/agent-skills/ai-presence-auditor](https://skills.sh/optimizerteam/agent-skills/ai-presence-auditor).
+Full guide, with every step done by hand: [AI Visibility Checker](https://optimizer.team/resources/ai-visibility-checker).
 
 ## About Optimizer
 
