@@ -21,7 +21,7 @@ hands back a prioritized fix list.
 | ChatGPT | several sources at once: outside search providers (Microsoft is one), ranked lists, directories and review sites, and your website |
 | Google AI Overviews / AI Mode / Gemini | your Google Business Profile + the local pack |
 | Microsoft Copilot | the Bing ecosystem |
-| Siri / Apple Maps | Apple Business Connect |
+| Siri / Apple Maps | Apple Business (formerly Apple Business Connect) |
 
 Ground rules the fixes follow from:
 
@@ -60,10 +60,10 @@ you, and the most likely reason.
 
 ## Built by Optimizer
 
-[Optimizer](https://optimizer.team) (optimizer.team) is the AI agent that helps local and home-service
-businesses get found — across Google, their website, AI search, and reviews. This skill is the manual,
-do-it-yourself version; Optimizer automates the audit, the fixes, and the weekly loop, with the owner
-approving every change.
+[Optimizer](https://optimizer.team) (optimizer.team) is an AI agent for local SEO and AI search, for
+small businesses. It checks the three places customers look: your Google Business Profile, your
+website, and AI search. This skill is the manual, do-it-yourself version; Optimizer automates the
+audit, the fixes, and the weekly loop, with the owner approving every change.
 
 ## License
 

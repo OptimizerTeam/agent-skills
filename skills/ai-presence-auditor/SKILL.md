@@ -23,11 +23,13 @@ returns a prioritized list of fixes.
 There is **no single "AI"** — different assistants read different sources, so "get found by AI" is a
 multi-surface job, not one listing:
 
-- **ChatGPT** draws on **several sources at once**: outside search providers (OpenAI names none;
-  Microsoft says its Web IQ service powers ChatGPT), ranked lists, directories and review sites, and
-  your website. Nobody outside OpenAI knows the shares, so don't count on any one listing.
+- **ChatGPT** draws on **several sources at once**: outside search providers (OpenAI's help page
+  gives no list of them, and links two privacy policies, Microsoft's and Shopify's; Microsoft says
+  its Web IQ service powers ChatGPT), ranked lists, directories and review sites, and your website.
+  Nobody outside OpenAI knows the shares, so don't count on any one listing.
 - **Google AI Overviews / AI Mode / Gemini** lean on your **Google Business Profile** + the local pack.
-- **Microsoft Copilot** ← the Bing ecosystem. **Siri / Apple Maps** ← **Apple Business Connect**.
+- **Microsoft Copilot** ← the Bing ecosystem. **Siri / Apple Maps** ← **Apple Business** (formerly
+  Apple Business Connect).
 
 A few ground rules that shape every recommendation:
 
@@ -47,7 +49,7 @@ A few ground rules that shape every recommendation:
    {problem} in {city}", "top-rated {service} near {neighborhood}". For each prompt record: Is the
    business named? Which competitors are named? What reason or source does the AI give?
 2. **Diagnose the surfaces.** Check presence + completeness on **Google Business Profile, Bing Places,
-   Apple Business Connect, Foursquare, and Yelp.** Flag any that are missing or unclaimed.
+   Apple Business, Foursquare, and Yelp.** Flag any that are missing or unclaimed.
 3. **Check NAP consistency** (name, address, phone) across those registries — mismatches confuse the
    entity and suppress recommendations.
 4. **Check reviews** — volume, recency, average rating, and response rate. Below-average or thin →

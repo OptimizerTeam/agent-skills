@@ -18,7 +18,8 @@ npx skills add OptimizerTeam/agent-skills
 
 Checks whether a local or home-service business shows up when customers ask AI assistants (ChatGPT,
 Perplexity, Google AI, Gemini, Copilot) to recommend a provider, then returns a prioritized list of
-fixes across the surfaces AI actually reads (Bing, Google Business Profile, Apple, Foursquare, Yelp).
+fixes across the places AI reads (Google Business Profile, Bing Places, Apple Business, Foursquare,
+Yelp).
 
 **Use when:**
 
@@ -28,9 +29,10 @@ fixes across the surfaces AI actually reads (Bing, Google Business Profile, Appl
 
 ## About Optimizer
 
-[Optimizer](https://optimizer.team) is the AI agent that helps local and home-service businesses get
-found — across Google, their website, AI search, and reviews — with evidence-backed recommendations
-the owner approves before anything changes. A product of Optimizer Team, Inc.
+[Optimizer](https://optimizer.team) is an AI agent for local SEO and AI search, for small businesses.
+It checks the three places customers look (your Google Business Profile, your website, and AI search)
+and hands over evidence-backed fixes that the owner approves before anything changes. A product of
+Optimizer Team, Inc.
 
 ## License
 
