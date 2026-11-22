@@ -22,7 +22,7 @@ Run an AI visibility audit for {business}, a {service} in {city}. Website: {url}
 
 ## Available skills
 
-### [ai-presence-auditor](./skills/ai-presence-auditor)
+### [local-ai-visibility-audit](./skills/local-ai-visibility-audit)
 
 Checks whether a local or home-service business shows up when customers ask AI assistants (ChatGPT,
 Perplexity, Google AI, Gemini, Copilot) to recommend a provider, then returns a prioritized list of
@@ -35,7 +35,6 @@ Yelp).
 - Answering "do I show up in ChatGPT?" or "why does AI recommend my competitor?"
 - Finding the highest-impact fixes to get recommended by AI
 
-Skill page: [skills.sh/optimizerteam/agent-skills/ai-presence-auditor](https://skills.sh/optimizerteam/agent-skills/ai-presence-auditor).
 Full guide, with every step done by hand: [AI Visibility Checker](https://optimizer.team/resources/ai-visibility-checker).
 
 ## About Optimizer

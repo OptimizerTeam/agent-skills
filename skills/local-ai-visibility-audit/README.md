@@ -47,10 +47,11 @@ Or manually (agent skills live in `~/.claude/skills/` or a project's `.claude/sk
 
 ```bash
 git clone https://github.com/OptimizerTeam/agent-skills
-cp -r agent-skills/skills/ai-presence-auditor ~/.claude/skills/
+cp -r agent-skills/skills/local-ai-visibility-audit ~/.claude/skills/
 ```
 
-Then ask your agent to **"run the ai-presence-auditor skill for {business} in {city}."**
+Then ask your agent to **"run the local-ai-visibility-audit skill for {business} in {city}."** The skill's install
+name was `ai-presence-auditor` until November 2026; if you have that copy, remove it and install this one.
 
 ## Prompts to try
 

@@ -1,5 +1,5 @@
 ---
-name: ai-presence-auditor
+name: local-ai-visibility-audit
 description: AI visibility audit for a local business. Checks whether the business gets named when customers ask ChatGPT, Perplexity, Gemini, Google AI Overviews or AI Mode, or Copilot who to hire, then returns a prioritized list of fixes for its listings, reviews and website wording. Use for the AI search side of local SEO (AEO, GEO) for a plumber, HVAC company, roofer or other local service business, or when someone asks "do I show up in ChatGPT", "why does AI recommend my competitor" or "how do I get found by AI".
 license: MIT
 compatibility: Needs web access. To check ChatGPT, Perplexity or Gemini answers the agent must be able to open those assistants, or the user runs the prompts and pastes the answers. No API key.
