@@ -9,15 +9,16 @@ for local, packaged as an agent skill.
 
 People increasingly ask AI *"who should I call for a plumber in Austin?"* instead of scrolling Google.
 AI names only a handful of businesses — **you're either in the answer or you're invisible.** And there
-is no single place to optimize: ChatGPT leans on **Bing + your website + Yelp/Foursquare**, while
-Google's AI (AI Overviews, Gemini) leans on your **Google Business Profile**. This skill audits where
-you stand across all of those surfaces and hands back a prioritized fix list.
+is no single place to optimize: ChatGPT draws on **several sources at once** (search providers, ranked
+lists, directories and review sites, your website), while Google's AI (AI Overviews, Gemini) leans on
+your **Google Business Profile**. This skill audits where you stand across all of those surfaces and
+hands back a prioritized fix list.
 
 ## How AI picks local businesses
 
 | Assistant | Reads mostly from |
 | --- | --- |
-| ChatGPT | the Bing index + your website + Yelp / Foursquare data (not primarily Google Business Profile) |
+| ChatGPT | several sources at once: outside search providers (Microsoft is one), ranked lists, directories and review sites, and your website |
 | Google AI Overviews / AI Mode / Gemini | your Google Business Profile + the local pack |
 | Microsoft Copilot | the Bing ecosystem |
 | Siri / Apple Maps | Apple Business Connect |
