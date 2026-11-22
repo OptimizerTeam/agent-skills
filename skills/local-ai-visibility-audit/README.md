@@ -26,10 +26,11 @@ hands back a prioritized fix list.
 
 Ground rules the fixes follow from:
 
-- AI recommends a **small set (~3–5)** of businesses, and often **not** the Google #1 — being *cited*
-  is not the same as being *recommended*.
-- **Reviews act as a trust filter** (roughly 4+ stars is table stakes); thin or below-average profiles
-  get left out.
+- AI names a **small set** of businesses (2 to 8 per answer when
+  [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
+  often **not** the Google #1. Being *cited* is not the same as being *recommended*.
+- **Reviews act as a trust filter**: thin or below-average profiles tend to get left out. There's no
+  proven numeric cutoff.
 - **Consistent name/address/phone** across Google, Bing, Apple, Foursquare, and Yelp matters more than
   any single listing.
 - **Honest reality check:** AI-sourced recommendations are still a small share of local demand today

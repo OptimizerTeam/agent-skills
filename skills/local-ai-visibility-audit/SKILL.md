@@ -40,10 +40,11 @@ multi-surface job, not one listing:
 
 A few ground rules that shape every recommendation:
 
-- AI recommends a **small set (~3–5)** of businesses, and often **not** the Google #1. Being *cited* is
-  not the same as being *recommended*.
-- **Reviews act as a trust filter** — roughly 4+ stars is table stakes; thin or below-average review
-  profiles get left out. (There's no proven exact numeric cutoff — don't invent one.)
+- AI names a **small set** of businesses (2 to 8 per answer when
+  [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
+  often **not** the Google #1. Being *cited* is not the same as being *recommended*.
+- **Reviews act as a trust filter**: thin or below-average review profiles tend to get left out.
+  There's no proven numeric cutoff, so don't invent one.
 - **Multi-source consistency** beats any single listing: consistent name/address/phone (NAP) across
   Google, Bing, Apple, Foursquare, Yelp, and directories is what lets the AI trust the entity.
 - **Reality check:** AI-sourced recommendations are still a **small share** of local demand today versus
