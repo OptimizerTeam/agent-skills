@@ -31,8 +31,8 @@ Ground rules the fixes follow from:
   often **not** the Google #1. Being *cited* is not the same as being *recommended*.
 - **Reviews can help, and customers see them.** [Google says](https://support.google.com/business/answer/7091)
   more reviews and positive ratings can help a business's local ranking, and ChatGPT's business cards
-  can show a rating. Google's tips give no rating or review count to aim for, and OpenAI doesn't list
-  how it ranks businesses.
+  can show a rating. Google's tips give no rating or review count to aim for, and OpenAI's help page
+  doesn't list the factors ChatGPT uses to rank results.
 - **Keep your name, address, and phone the same** across Google, Bing, Apple, Foursquare, and Yelp.
   Google says businesses with complete and accurate info are more likely to show up in local results,
   and in our ChatGPT test 46 of the 48 answers gave a phone number without saying where it came from,
