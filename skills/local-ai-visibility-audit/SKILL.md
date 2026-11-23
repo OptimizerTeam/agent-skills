@@ -38,7 +38,7 @@ multi-surface job, not one listing:
 - **Microsoft Copilot** ← the Bing ecosystem. **Siri / Apple Maps** ← **Apple Business** (formerly
   Apple Business Connect).
 
-A few ground rules that shape every recommendation:
+A few ground rules, whichever assistant a customer asks:
 
 - AI names a **small set** of businesses (2 to 8 per answer when
   [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
@@ -47,8 +47,12 @@ A few ground rules that shape every recommendation:
   more reviews and positive ratings can help a business's local ranking, and
   [ChatGPT's business cards](https://optimizer.team/resources/chatgpt-local-results) can show a
   rating. Neither Google nor OpenAI gives a rating or review count to aim for, so don't invent one.
-- **Multi-source consistency** beats any single listing: consistent name/address/phone (NAP) across
-  Google, Bing, Apple, Foursquare, Yelp, and directories is what lets the AI trust the entity.
+- **Keep name, address, and phone (NAP) the same everywhere**: Google says businesses with complete
+  and accurate info are [more likely to show up](https://support.google.com/business/answer/7091) in
+  local results. 46 of the 48 ChatGPT answers
+  [in our test](https://optimizer.team/resources/chatgpt-local-results) gave a phone number, so an
+  old number on any listing it reads can send the call to someone else. Check Google, Bing, Apple,
+  Foursquare, Yelp, and directories against the website.
 - **Reality check:** AI-sourced recommendations are still a **small share** of local demand today versus
   the Google local pack and the phone. Treat this as a growing edge, not the whole game — and say so.
 
@@ -62,8 +66,8 @@ A few ground rules that shape every recommendation:
    answer. Mark any assistant nobody checked as **not checked**. Never guess what it would have said.
 2. **Diagnose the surfaces.** Check presence + completeness on **Google Business Profile, Bing Places,
    Apple Business, Foursquare, and Yelp.** Flag any that are missing or unclaimed.
-3. **Check NAP consistency** (name, address, phone) across those registries — mismatches confuse the
-   entity and suppress recommendations.
+3. **Check NAP consistency** (name, address, phone) across those registries and the website. List
+   each mismatch and where it appears.
 4. **Check reviews** — volume, recency, average rating, and response rate. Compare them with the
    competitors the AI named. Neither Google nor OpenAI gives a cutoff, so report the gap, not a pass
    or fail.

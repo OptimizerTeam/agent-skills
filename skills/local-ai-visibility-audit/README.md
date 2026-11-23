@@ -32,8 +32,9 @@ Ground rules the fixes follow from:
 - **Reviews can help, and customers see them**: [Google says](https://support.google.com/business/answer/7091)
   more reviews and positive ratings can help a business's local ranking, and ChatGPT's business cards
   can show a rating. Neither Google nor OpenAI gives a rating or review count to aim for.
-- **Consistent name/address/phone** across Google, Bing, Apple, Foursquare, and Yelp matters more than
-  any single listing.
+- **Keep name, address, and phone the same everywhere**: Google says businesses with complete and
+  accurate info are more likely to show up in local results. Check Google, Bing, Apple, Foursquare,
+  and Yelp against your website.
 - **Honest reality check:** AI-sourced recommendations are still a small share of local demand today
   versus the Google local pack and the phone. A growing edge, not the whole game.
 
