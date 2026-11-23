@@ -46,8 +46,8 @@ A few ground rules worth following whichever assistant a customer asks:
 - **Reviews can help, and customers see them.** [Google says](https://support.google.com/business/answer/7091)
   more reviews and positive ratings can help a business's local ranking, and
   [ChatGPT's business cards](https://optimizer.team/resources/chatgpt-local-results) can show a
-  rating. Google's tips give no rating or review count to aim for, and OpenAI doesn't list how it
-  ranks businesses, so don't invent a cutoff.
+  rating. Google's tips give no rating or review count to aim for, and OpenAI's help page doesn't
+  list the factors ChatGPT uses to rank results, so don't invent a cutoff.
 - **Keep the name, address, and phone (NAP) the same everywhere**: Google, Bing, Apple, Foursquare,
   Yelp, and directories. Google says businesses with complete and accurate info are
   [more likely to show up](https://support.google.com/business/answer/7091) in local results. In
