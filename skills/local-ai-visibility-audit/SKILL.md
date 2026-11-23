@@ -43,8 +43,10 @@ A few ground rules that shape every recommendation:
 - AI names a **small set** of businesses (2 to 8 per answer when
   [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
   often **not** the Google #1. Being *cited* is not the same as being *recommended*.
-- **Reviews act as a trust filter**: thin or below-average review profiles tend to get left out.
-  There's no proven numeric cutoff, so don't invent one.
+- **Reviews can help, and customers see them**: [Google says](https://support.google.com/business/answer/7091)
+  more reviews and positive ratings can help a business's local ranking, and
+  [ChatGPT's business cards](https://optimizer.team/resources/chatgpt-local-results) can show a
+  rating. Neither Google nor OpenAI gives a rating or review count to aim for, so don't invent one.
 - **Multi-source consistency** beats any single listing: consistent name/address/phone (NAP) across
   Google, Bing, Apple, Foursquare, Yelp, and directories is what lets the AI trust the entity.
 - **Reality check:** AI-sourced recommendations are still a **small share** of local demand today versus
@@ -62,8 +64,9 @@ A few ground rules that shape every recommendation:
    Apple Business, Foursquare, and Yelp.** Flag any that are missing or unclaimed.
 3. **Check NAP consistency** (name, address, phone) across those registries — mismatches confuse the
    entity and suppress recommendations.
-4. **Check reviews** — volume, recency, average rating, and response rate. Below-average or thin →
-   likely filtered out regardless of everything else.
+4. **Check reviews** — volume, recency, average rating, and response rate. Compare them with the
+   competitors the AI named. Neither Google nor OpenAI gives a cutoff, so report the gap, not a pass
+   or fail.
 5. **Check the website.** Does it state, in plain text, exactly what you do and where ("24/7 emergency
    plumbing in {city}")? Are there service and service-area pages, and an FAQ that matches how people
    ask AI? Vague "quality solutions for all your needs" copy is effectively invisible to AI.
@@ -75,7 +78,7 @@ A few ground rules that shape every recommendation:
 - A short **scorecard per surface** (present / missing / needs work / not checked).
 - **"Where you're missing vs where AI actually looks."**
 - A **prioritized fix list** ranked by impact × effort — quick wins first (e.g., claim Bing Places, fix
-  a NAP mismatch, add a service-area page, start a review-a-week habit).
+  a NAP mismatch, add a service-area page, ask for reviews steadily).
 - **Which competitor the AI names instead**, and the most likely reason, labeled as a guess unless
   the AI's own answer states it.
 - An honest framing line: this is a growing edge — don't abandon Google/GBP or the phone.
