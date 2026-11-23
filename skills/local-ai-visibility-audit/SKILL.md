@@ -38,15 +38,22 @@ multi-surface job, not one listing:
 - **Microsoft Copilot** ← the Bing ecosystem. **Siri / Apple Maps** ← **Apple Business** (formerly
   Apple Business Connect).
 
-A few ground rules that shape every recommendation:
+A few ground rules worth following whichever assistant a customer asks:
 
 - AI names a **small set** of businesses (2 to 8 per answer when
   [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
   often **not** the Google #1. Being *cited* is not the same as being *recommended*.
-- **Reviews act as a trust filter**: thin or below-average review profiles tend to get left out.
-  There's no proven numeric cutoff, so don't invent one.
-- **Multi-source consistency** beats any single listing: consistent name/address/phone (NAP) across
-  Google, Bing, Apple, Foursquare, Yelp, and directories is what lets the AI trust the entity.
+- **Reviews can help, and customers see them.** [Google says](https://support.google.com/business/answer/7091)
+  more reviews and positive ratings can help a business's local ranking, and
+  [ChatGPT's business cards](https://optimizer.team/resources/chatgpt-local-results) can show a
+  rating. Google's tips give no rating or review count to aim for, and OpenAI doesn't list how it
+  ranks businesses, so don't invent a cutoff.
+- **Keep the name, address, and phone (NAP) the same everywhere**: Google, Bing, Apple, Foursquare,
+  Yelp, and directories. Google says businesses with complete and accurate info are
+  [more likely to show up](https://support.google.com/business/answer/7091) in local results. In
+  [our test of the ChatGPT app](https://optimizer.team/resources/chatgpt-local-results), 46 of the
+  48 answers gave a phone number without saying where it came from, so an old number on any listing
+  it reads can send the call to someone else.
 - **Reality check:** AI-sourced recommendations are still a **small share** of local demand today versus
   the Google local pack and the phone. Treat this as a growing edge, not the whole game — and say so.
 
@@ -60,10 +67,10 @@ A few ground rules that shape every recommendation:
    answer. Mark any assistant nobody checked as **not checked**. Never guess what it would have said.
 2. **Diagnose the surfaces.** Check presence + completeness on **Google Business Profile, Bing Places,
    Apple Business, Foursquare, and Yelp.** Flag any that are missing or unclaimed.
-3. **Check NAP consistency** (name, address, phone) across those registries — mismatches confuse the
-   entity and suppress recommendations.
-4. **Check reviews** — volume, recency, average rating, and response rate. Below-average or thin →
-   likely filtered out regardless of everything else.
+3. **Check NAP consistency** (name, address, phone) across those registries. A mismatch can send a
+   customer to an old number or address.
+4. **Check reviews**: volume, recency, average rating, and response rate, next to the competitors
+   the AI names. Don't report a rating or count as a cutoff; the sources above give none.
 5. **Check the website.** Does it state, in plain text, exactly what you do and where ("24/7 emergency
    plumbing in {city}")? Are there service and service-area pages, and an FAQ that matches how people
    ask AI? Vague "quality solutions for all your needs" copy is effectively invisible to AI.
@@ -75,7 +82,7 @@ A few ground rules that shape every recommendation:
 - A short **scorecard per surface** (present / missing / needs work / not checked).
 - **"Where you're missing vs where AI actually looks."**
 - A **prioritized fix list** ranked by impact × effort — quick wins first (e.g., claim Bing Places, fix
-  a NAP mismatch, add a service-area page, start a review-a-week habit).
+  a NAP mismatch, add a service-area page, ask for reviews steadily and reply to them).
 - **Which competitor the AI names instead**, and the most likely reason, labeled as a guess unless
   the AI's own answer states it.
 - An honest framing line: this is a growing edge — don't abandon Google/GBP or the phone.

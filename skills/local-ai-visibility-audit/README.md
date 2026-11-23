@@ -29,10 +29,14 @@ Ground rules the fixes follow from:
 - AI names a **small set** of businesses (2 to 8 per answer when
   [we asked the ChatGPT app 48 times](https://optimizer.team/resources/chatgpt-local-results)), and
   often **not** the Google #1. Being *cited* is not the same as being *recommended*.
-- **Reviews act as a trust filter**: thin or below-average profiles tend to get left out. There's no
-  proven numeric cutoff.
-- **Consistent name/address/phone** across Google, Bing, Apple, Foursquare, and Yelp matters more than
-  any single listing.
+- **Reviews can help, and customers see them.** [Google says](https://support.google.com/business/answer/7091)
+  more reviews and positive ratings can help a business's local ranking, and ChatGPT's business cards
+  can show a rating. Google's tips give no rating or review count to aim for, and OpenAI doesn't list
+  how it ranks businesses.
+- **Keep your name, address, and phone the same** across Google, Bing, Apple, Foursquare, and Yelp.
+  Google says businesses with complete and accurate info are more likely to show up in local results,
+  and in our ChatGPT test 46 of the 48 answers gave a phone number without saying where it came from,
+  so an old number on any listing can send the call to someone else.
 - **Honest reality check:** AI-sourced recommendations are still a small share of local demand today
   versus the Google local pack and the phone. A growing edge, not the whole game.
 
