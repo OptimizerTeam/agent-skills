@@ -46,7 +46,8 @@ A few ground rules worth following whichever assistant a customer asks:
 - **Reviews can help, and customers see them.** [Google says](https://support.google.com/business/answer/7091)
   more reviews and positive ratings can help a business's local ranking, and
   [ChatGPT's business cards](https://optimizer.team/resources/chatgpt-local-results) can show a
-  rating. Neither Google nor OpenAI gives a rating or review count to aim for, so don't invent one.
+  rating. Google's tips give no rating or review count to aim for, and OpenAI doesn't list how it
+  ranks businesses, so don't invent a cutoff.
 - **Keep the name, address, and phone (NAP) the same everywhere**: Google, Bing, Apple, Foursquare,
   Yelp, and directories. Google says businesses with complete and accurate info are
   [more likely to show up](https://support.google.com/business/answer/7091) in local results. In
@@ -69,7 +70,7 @@ A few ground rules worth following whichever assistant a customer asks:
 3. **Check NAP consistency** (name, address, phone) across those registries. A mismatch can send a
    customer to an old number or address.
 4. **Check reviews**: volume, recency, average rating, and response rate, next to the competitors
-   the AI names. Don't report a rating or count as a cutoff; neither Google nor OpenAI gives one.
+   the AI names. Don't report a rating or count as a cutoff; the sources above give none.
 5. **Check the website.** Does it state, in plain text, exactly what you do and where ("24/7 emergency
    plumbing in {city}")? Are there service and service-area pages, and an FAQ that matches how people
    ask AI? Vague "quality solutions for all your needs" copy is effectively invisible to AI.
